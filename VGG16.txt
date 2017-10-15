@@ -1,0 +1,30 @@
+Model Name: VGG16
+
+Description: Detects the dominant objects present in an image from a set of 1,000 categories such as trees, animals, food, vehicles, people, and more. 
+The top-5 error from the original publication is 7.4%.
+
+Core ML Model Size: 553.5 MB
+<https://developer.apple.com/machine-learning/>
+
+-----
+
+Source Link
+<http://www.robots.ox.ac.uk/~vgg/research/very_deep/>
+
+Keras Version Link
+<https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py>
+
+Authors
+Original: Karen Simonyan & Andrew Zisserman
+Keras Implementation: François Chollet
+
+Citations
+Karen Simonyan, Andrew Zisserman. "Very Deep Convolutional Networks for Large-Scale Image Recognition." Paper <https://arxiv.org/abs/1409.1556>
+
+Labels
+Imagenet labels from https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a
+
+License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+<https://creativecommons.org/licenses/by/4.0/>
+
